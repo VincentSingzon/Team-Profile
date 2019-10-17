@@ -1,8 +1,8 @@
 <h1>Team Name</h1> 
 
-<h>Personal Information<h/>
+<h2>Personal Information</h2>
 
-<h>Group processess </h>
+<h2>Group processess </h2>
 
-<h>Career Plans </h>
+<h2>Career Plans </h2>
 
