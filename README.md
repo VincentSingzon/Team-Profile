@@ -27,4 +27,14 @@ Carlos Collazos
 <h2>Career Plans </h2>
 
 <h2> Project Description </h2>
+<h3> Overview </h3>
+<p>The project to be designed is a 3D modelled physics engine with real world physics in it where it comes preloaded with certain materials that you can insert and test in a 3D space. Essentially the program will act similarly to Sketchup or other 3D modelling software, except it can take into account real-world physics at work, such as wind and aerodynamics, building load, stress and strain on materials and the weight and structural integrity of different, pre-generated materials, ranging from all different types of concrete, to cables and steel beams. The program will mainly be used as an assistant to engineers so they can see in real time roughly what happens to their proposed ideas is they were to be constructed in the real world.  
+
+The outcome of the project should be a large decrease in building failures because of the physics engine of the system. This would solve the original problem of there being too many building failures in cities. The program would also be a great way to teach engineering students about building technique without wasting materials or time on physically building structures. In the real world, there is no room for testing and experimentation, but this program would allow for this. There may be new developments because of it, as new building materials were tested by different users of the program.
+</p>
+
+<h3>Motivation</h3>
+<p>Residents of Sydney’s Opal Tower were evacuated when the building began cracking on December 24th 2018. Following this cladding fires swept up the Neo200 building in Melbourne in February of 2019 and Mascot Towers in Sydney were closed due to cracking in June of the same year. This shows that there has been a major crisis in the structural design of buildings in recent years and a program that modelled scenarios that these buildings may undergo. The scenario generator would have the building be tested before it went up over time and thus eliminate all of these possible areas of failure.</p>
+<h3>Landscape</h3>
+<p>The project being created incorporates a number of different aspects of existing programs, however there are no programs available that can do what the proposed project will be able to do. Software such as SketchUp can model the building of structures in the same way that the proposed program will be. Physics engines also exist, in the form of game development software such as Unity, which easily applies the desired physics to an object with the application of a rigidbody to the object. While programs do exist that run components of the full program, the full program doesn’t exist anywhere. Because of this fact, there wouldn’t be any true competitors to the program.</p>
 
